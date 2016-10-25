@@ -12,7 +12,10 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://facebook.github.io/react-native/index.html">
 <meta property="og:image" content="http://facebook.github.io/react-native/img/opengraph.png?2">
-<meta property="og:description" content="A framework for building native apps using React"><base href="/react-native/">
+<meta property="og:description" content="A framework for building native apps using React">
+
+<base href="/./">
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
 <link rel="shortcut icon" href="img/favicon.png?2">
 <link rel="stylesheet" href="css/react-native.css">
