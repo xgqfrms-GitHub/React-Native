@@ -1,7 +1,7 @@
 # React-Native Tutorials 
 
 
-[react native](https://egghead.io/courses/react-native-fundamentals)
+[https://egghead.io/courses/react-native-fundamentals](https://egghead.io/courses/react-native-fundamentals)
 
 
 ## part free
