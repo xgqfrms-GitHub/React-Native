@@ -7,7 +7,9 @@
 ## part free
 
 https://egghead.io/courses/react-testing-cookbook
+
 https://egghead.io/courses/react-native-fundamentals
+
 https://egghead.io/courses/react-flux-architecture-es6
 
 
@@ -30,13 +32,18 @@ https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
 ## install 
 
 ```sh
-$ npm install --save react react-native-cli 
+$ npm i -S react react-native-cli 
 
-# test 
 
 $ react-native init AwesomeProject
-$ cd AwesomeProject
-$ react-native run-android
+
+$ cd AwesomeProject && react-native run-android
+# OR
+$ cd AwesomeProject && react-native run-ios
+
 
 $ react-native start
 ``` 
+
+
+https://reactnative.cn/docs/getting-started/
